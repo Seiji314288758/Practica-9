@@ -1,4 +1,4 @@
-/*Nieto Morita Victor Seiji
+/*Victor Seiji Nieto Morita
 clase 5 ejercicio 7*/
 
 #include <stdio.h>
